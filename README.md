@@ -10,11 +10,7 @@ L'utilisateur choisi un nombre et le programme génére l'écriture correspondan
 
 ## Exemples
 
-- Nombre -->Résulat
-- 4      --> IV
-- 42   -->   XLII
-- 99  -->    XCIX
-- 2025  -->  MMXXV
+![description](images/romain.png)
    
 
 ## Concepts utilisés
